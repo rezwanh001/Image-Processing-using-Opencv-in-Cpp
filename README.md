@@ -1,5 +1,5 @@
 # Image-Processing-using-Opencv-in-Cpp
- >> This Repo contains some codes of "Image Processing and Computer Vision(CSE 4128)" course, KUET.  
+ > This Repo contains some codes of "Image Processing and Computer Vision(CSE 4128)" course, KUET.  
 
 ## Requirements:
   - Visual Studio 2012
